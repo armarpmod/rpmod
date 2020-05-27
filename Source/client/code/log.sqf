@@ -1,0 +1,1 @@
+diag_log format ['RPMOD: %1', _this];
